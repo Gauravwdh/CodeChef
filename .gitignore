@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+.gradle/*
 
 # Compiled Object files
 *.slo
@@ -30,3 +31,10 @@
 *.exe
 *.out
 *.app
+
+*.vscode
+.classpath
+build/*
+.settings/*
+bin/*
+.project
